@@ -13,11 +13,9 @@ To write a python program for finding the minimum number of jumps needed to reac
 6. Return dp[n-1] as the minimum number of jumps required to reach the end of the array.
 
 ## Program:
-```
-To implement the program to finding the minimum number of jumps needed to reach end of the array.
-Developed by: LOKNAATH P
-Register Number: 212223240080
-```
+### To implement the program to finding the minimum number of jumps needed to reach end of the array.
+### Developed by: THARUN V K
+### Register Number: 212223230231 
 ```py
 def minJumps(arr, n):
     if n<=1:
