@@ -13,11 +13,9 @@ To write a python program to find the maximum contiguous subarray.
 6. If current_sum is greater than max_sum, update max_sum; if current_sum becomes negative, reset it to 0 to start fresh.
 
 ## Program:
-```
-To implement the program to find the maximum contiguous subarray.
-Developed by: LOKNAATH P
-Register Number: 212223240080  
-```
+### To implement the program to find the maximum contiguous subarray.
+### Developed by: THARUN V K
+### Register Number: 212223230231 
 ```py
 def maxSubArraySum(a,size):
     maxx=0
