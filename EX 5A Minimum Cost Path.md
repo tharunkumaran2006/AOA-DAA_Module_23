@@ -18,11 +18,9 @@ To write a Python program using A Naive recursive implementation of Minimum Cost
 9. Final Output:Call the recursive function starting from the bottom-right corner of the matrix to find the minimum cost.
 
 ## Program:
-```
-A program to implement to find the Minimum Cost Path Problem using a  Naive recursive Approach.
-Developed by: LOKNAATH P
-Register Number: 212223240080
-```
+### A program to implement to find the Minimum Cost Path Problem using a  Naive recursive Approach.
+### Developed by: THARUN V K
+### Register Number: 212223230231 
 ```py
 R = int(input())
 C = int(input())
